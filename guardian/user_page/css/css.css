@@ -1,0 +1,6 @@
+h3.highlighted{
+    /*font-size:505%;*/ margin-left:20%; margin-right:20%; background:rgba(0,0,0,.3);
+}
+p.highlighted{
+	/*font-size:155%;*/ margin-left:20%; margin-right:20%; background:rgba(0,0,0,.3);
+}

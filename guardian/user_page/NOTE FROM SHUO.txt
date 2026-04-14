@@ -1,0 +1,24 @@
+NOTE:
+
+- Perbaiki posisi bulletin carouselnya v
+
+- Perbaiki posisi footer v
+
+- Perbaiki width ketika screen dikecil-besarkan utk bagian
+  sub-judul header dgn ukuran lebar dibawah 768px v
+
+- Perbaiki width ketika screen dikecil-besarkan utk bagian
+  judul isi dgn ukuran lebar dibawah 768px v
+
+- Perbaiki ukuran gambar carousel ketika width-screen dikecil-
+  besarkan, yg jg meliputi punya testimoni
+
+- pd laman produk dan alat, perbaiki ukuran gambar
+  NOTE: cropkan fotomu jadi kecil (20px x 20px kira2)
+        lihat lagi cssnya ukurannya brp tuh, lalu dicrop
+
+- perbaiki posisi gambar pada laman utama produk dan alat ketika
+  lebar layar dikecilkan sebanyak kurang dari 992px
+
+- perbaiki ukuran font judul dan subjudul pd isi ketika lebar
+  layar dibesarkan dari 0px hingga diatas 992px
